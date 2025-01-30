@@ -29,6 +29,7 @@ public class IndexController {
     List<Book> books = new ArrayList<Book>();
 
     Statement statement = null;
+	String apiKey = "892453d8-0ce8-4ca2-8128-f287558f5472";
 
     try {
       // Init connection to DB
