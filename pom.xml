@@ -43,6 +43,15 @@
          <artifactId>slf4j-api</artifactId>
          <version>1.7.32</version>
      </dependency>
+	    <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-log4j12 -->
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-log4j12</artifactId>
+    <version>2.1.0-alpha1</version>
+    <type>pom</type>
+    <scope>test</scope>
+</dependency>
+
         <dependency>
 	    <groupId>com.aspose</groupId>
 	    <artifactId>aspose-barcode</artifactId>
