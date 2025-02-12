@@ -1,4 +1,4 @@
-name: 'Dependency Review 2'
+name: 'Dependency Review 2 '
 on: [pull_request]
 
 permissions:
